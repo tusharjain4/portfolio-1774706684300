@@ -1,0 +1,120 @@
+{
+  "name": "Pooja R. Sonar",
+  "role": "Software Developer",
+  "tagline": "Full-stack developer specializing in scalable web applications and innovative technology solutions",
+  "about": "Accomplished Software Developer with proven expertise in building scalable web applications using cutting-edge technologies. Currently pursuing B.Tech in IT with an outstanding CGPA of 9.2. Demonstrated proficiency in full-stack development with specialized expertise in MERN stack, Next.js, and TypeScript. Successfully delivered diverse projects spanning e-commerce platforms to AI-powered coding preparation systems, consistently driving innovation and technical excellence.",
+  "experience": 1,
+  "currentRole": "SDE Intern at TABX",
+  "highlights": [
+    "Developed scalable web applications using Next.js and TypeScript",
+    "Built e-commerce platform features for EV bikes marketplace",
+    "Implemented message-driven architecture using RabbitMQ",
+    "Created reusable UI components using Storybook",
+    "Won 2nd place in all Goa science day innovative project building competition",
+    "Secured third position at GDSC ADGITM hackathon"
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Java",
+        "PHP",
+        "RESTful APIs",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Database",
+      "skills": [
+        "MongoDB",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "C++",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Tools & Technologies",
+      "skills": [
+        "GitHub",
+        "Storybook",
+        "Arduino",
+        "DSA",
+        "OOP"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AccessAI - CodeQuest",
+      "description": "Comprehensive AI-powered coding preparation platform featuring gamified learning experiences. Enables users to master programming languages, including Solidity for smart contract development, through interactive challenges and personalized learning paths.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "AI"
+      ],
+      "demo": "https://access-ai-iota.vercel.app/"
+    },
+    {
+      "name": "Maxiple Technology Website",
+      "description": "Professional corporate website developed for a laptop repair services company. Delivered as a complete freelance solution featuring modern design, service showcases, and client engagement capabilities.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js"
+      ],
+      "demo": "https://maxipleitservices.com"
+    },
+    {
+      "name": "Chess.com Backend Clone",
+      "description": "Enterprise-level backend system replicating Chess.com's core functionality. Features sophisticated API architecture and database management systems supporting real-time chess gameplay, user authentication, and interactive gaming experiences.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "Real-time APIs"
+      ]
+    },
+    {
+      "name": "Arduino Floor Cleaner",
+      "description": "Award-winning IoT-enabled autonomous floor cleaning device with smartphone integration. Features remote control functionality through custom mobile application and advanced Arduino-based automation. Recognized with 2nd place at All Goa Science Day Competition.",
+      "tech": [
+        "Arduino",
+        "Mobile App",
+        "IoT",
+        "Remote Control"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "poojasonar671@gmail.com",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  }
+}
